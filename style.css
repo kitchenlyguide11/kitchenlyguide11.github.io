@@ -1,0 +1,12 @@
+body { font-family: sans-serif; margin: 0; line-height: 1.7; color: #222; }
+nav { background: #2c5282; padding: 12px; display: flex; gap: 16px; flex-wrap: wrap; }
+nav a { color: #fff; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+main { max-width: 700px; margin: 24px auto; padding: 0 16px; }
+h1 { color: #2c5282; }
+.post-card { border-bottom: 1px solid #ddd; padding: 16px 0; }
+.post-card h2 { margin: 0 0 4px; font-size: 1.3em; }
+.post-card h2 a { color: #2c5282; text-decoration: none; }
+.post-card h2 a:hover { text-decoration: underline; }
+.post-card .date { color: #777; font-size: 0.9em; }
+.post-card p { margin: 8px 0 0; }
